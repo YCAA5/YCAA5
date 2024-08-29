@@ -15,7 +15,7 @@
 - **3D Design and Animation:** Collaborations on 3D modeling and animation projects.
 
 ## 📫 How to reach me
-- - **Email:** [murat.abbsli@hotmail.com](mailto:murat.abbsli@hotmail.com)
+- **Email:** [murat.abbsli@hotmail.com](mailto:murat.abbsli@hotmail.com)
 - **LinkedIn:** [Murat Abbaslı](https://www.linkedin.com/in/murat-abbasl%C4%B1-9407a8107/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
 - **Instagram:** [@ycaa95](https://www.instagram.com/ycaa95/) ![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram)
 ## 🧑🏻‍💻 Pronouns
