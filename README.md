@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me
 - **Email:** [Outlook](mailto:murat.abbsli@hotmail.com)
-- **Email:** [Gmail](allahverdi.abbasli.1995@gmail.com)
+- **Email:** [Gmail](mailto:allahverdi.abbasli.1995@gmail.com)
 - **LinkedIn:** [Murat Abbaslı](https://www.linkedin.com/in/murat-abbasl%C4%B1-9407a8107/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
 - **Instagram:** [@ycaa95](https://www.instagram.com/ycaa95/) ![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram)
 ## 🧑🏻‍💻 Pronouns
