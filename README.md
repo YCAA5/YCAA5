@@ -7,7 +7,7 @@
 - **Coding:** Proficient in programming languages such as C# and JavaScript.
 
 ## 🌱 I’m currently learning
-- *HTML, CSS, JS:* Web Developing languages.
+- **HTML, CSS, JS:** Web Developing languages.
 - **C# and Unity:** Enhancing my skills in C# programming and Unity game development.
 
 ## 💞️ I’m looking to collaborate on
